@@ -86,3 +86,5 @@ To clean, analyze, and derive insights from Sephora product data using Python (P
 ---
 
 ## 📁 Project Files
+    Visuals and Python Code
+    https://github.com/Adarshvr-96/Value-Driven-Product-Insights-Sephora-Dataset-/blob/main/sephoraEDA.ipynb 
